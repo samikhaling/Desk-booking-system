@@ -1,0 +1,17 @@
+.avatar {
+  background-color: #189091;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+  color: white;
+}
+
+.avatar-wrapper {
+  display: flex;
+  column-gap: 10px;
+  align-items: center;
+}

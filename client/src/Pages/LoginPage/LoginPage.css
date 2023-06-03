@@ -1,0 +1,21 @@
+.login-wrapper {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.login-wrapper__image {
+  width: 100%;
+  height: calc(100vh - 78px);
+}
+
+.login-wrapper__image > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.login-form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}

@@ -1,0 +1,14 @@
+@import url("./avatar.css");
+@import url("./landing.css");
+@import url("./dashboard.css");
+@import url("./company-info.css");
+@import url("./bootstrap-icons.css");
+
+.empty-wrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(224, 230, 235);
+}

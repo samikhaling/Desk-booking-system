@@ -1,0 +1,13 @@
+.dashboard__create__company .form-control, .form-select {
+    display: inline-block !important;
+    width: 35% !important;
+    /* height: calc(1.8rem + 2px) !important; */
+    margin-right: 10px !important;
+}
+.dashboard__create__company .form-label {
+    font-weight: normal !important;
+    margin-right: 1rem !important;
+}
+.dashboard__create__company .form-label span {
+    color: crimson;
+}
